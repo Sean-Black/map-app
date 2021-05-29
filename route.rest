@@ -1,0 +1,16 @@
+
+
+POST  http://localhost:4000/api/pins/
+
+
+
+
+
+{
+	"username": "John",
+	"title": "Tajmahal",
+	"description": "It was totally awesome",
+	"rating": 5,
+	"lat":626262626,
+	"long":75750303,
+}
